@@ -9,5 +9,5 @@
 | Project Name | Description | Link
 |---|---|---
 | BattleBlox | A challenging turn based strategy game | http://www.battleblox.gg   
-| cmpct  | A link shorterner - but with several key differences | https://cmpct.io
+| cmpct  | A link shortener - with several key differences | https://cmpct.io
 | Shine  | Plan tomorrow, today with this todo list app | https://www.shineproject.io  
