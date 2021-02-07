@@ -1,10 +1,9 @@
 ### Thomas William McClean 👋
 > I am a Senior full-stack Software Engineer working for `Just Eat Takeaway` in the United Kingdom, learn more about me at https://www.tommcclean.me
 
-- 🔭 **Current Project**: Between projects right now
-- 🔭 **Favourite Project**: https://cmpct.io
+- 🔭 **Current Project**: Planning to add a tutorial to Battleblog.gg
 - 😄 **Pronouns**: He / Him
-- 💻 **Preferred Tech**: .NETCore, VueJS, Nuxt, Azure, AWS
+- 💻 **Preferred Tech**: C# .NETCore, VueJS, Nuxt, Azure, AWS
 
 ## Other Cool Personal Projects
 | Project Name | Description | Link
