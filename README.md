@@ -5,9 +5,9 @@
 - 😄 **Pronouns**: He / Him
 - 💻 **Preferred Tech**: C# .NETCore, VueJS, Nuxt, Azure, AWS
 
-## Other Cool Personal Projects
+## Cool Personal Projects
 | Project Name | Description | Link
 |---|---|---
-| BattleBlox | Turn based strategy game | http://www.battleblox.gg   
-| cmpct  | Link shortener with a difference | https://cmpct.io
-| Shine  | Plan tomorrow, today | https://www.shineproject.io  
+| BattleBlox | A challenging turn based strategy game | http://www.battleblox.gg   
+| cmpct  | A link shorterner - but with several key differences | https://cmpct.io
+| Shine  | Plan tomorrow, today with this todo list app | https://www.shineproject.io  
