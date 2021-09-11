@@ -3,7 +3,7 @@
 
 - 🔭 **Current Project**: Working on a private project right now
 - 😄 **Pronouns**: He / Him
-- 💻 **Preferred Tech**: NuxtJS, VueJS, NoeJS, C# .NETCore, Azure, AWS
+- 💻 **Preferred Tech**: NuxtJS, VueJS, NodeJS, C# .NETCore, Azure, AWS
 
 ## Cool & Recent Personal Projects
 | Project Name | Description | Link
