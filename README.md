@@ -1,7 +1,6 @@
 ### Thomas William McClean 👋
 > I am a Senior Full-Stack Software Engineer working for `Just Eat Takeaway` in the United Kingdom, learn more about me at https://www.tommcclean.me
 
-- 🔭 **Current Project**: https://www.micro-stat.com
 - 😄 **Pronouns**: He / Him
 - 💻 **Preferred Tech**: NuxtJS, VueJS, NodeJS, C# .NETCore, Azure, AWS
 
