@@ -4,7 +4,9 @@
 - 😄 **Pronouns**: He / Him
 - 💻 **Preferred Tech**: NuxtJS, VueJS, NodeJS, C# .NETCore, Azure, AWS
 
-## Cool & Recent Personal Projects
+<hr>
+
+## Recent Personal Projects
 | Project Name | Description | Link
 |---|---|---
 | BattleBlox | A challenging turn based strategy game | http://www.battleblox.gg   
