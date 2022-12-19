@@ -15,8 +15,8 @@
 | Pokemon Tier Lists | A Pokemon Fansite | https://www.pokemontierlists.com
 
 ## Deprecated Projects
-| Project Name | Description | Link
-|---|---|---
+| Project Name | Description
+|---|---
 | PortalCMS | A page builder and CMS built with .NET
 | ShineProject  | A beautiful todo list application
 | EyeDentity  | A website to build your own directories or online profiles
