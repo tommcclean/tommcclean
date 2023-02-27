@@ -10,9 +10,10 @@
 | Project Name | Description | Link
 |---|---|---
 | web launcher  | Build your own custom browser start page | https://www.weblauncher.online
-| micro stat  | A realtime operations platform | https://www.micro-stat.com
-| BattleBlox | A challenging turn based strategy game | http://www.battleblox.gg   
-| cmpct  | A link shortener - with several key differences | https://cmpct.io
+| micro stat  | Realtime operations platform | https://www.micro-stat.com
+| BattleBlox | Challenging turn based strategy game | http://www.battleblox.gg   
+| cmpct  | Link shortener with a difference | https://cmpct.io
+| Animal Crossing Portal | The authority on villager popularity | https://www.animalcrossingportal.com
 | Pokemon Tier Lists | A Pokemon Fansite | https://www.pokemontierlists.com
 
 ## Deprecated Projects
