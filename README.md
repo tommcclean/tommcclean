@@ -12,13 +12,13 @@
 | web launcher  | Build your own custom browser start page | https://www.weblauncher.online
 | micro stat  | Realtime operations platform | https://www.micro-stat.com
 | BattleBlox | Challenging turn based strategy game | http://www.battleblox.gg   
-| cmpct  | Link shortener with a difference | https://cmpct.io
 | Animal Crossing Portal | The authority on villager popularity | https://www.animalcrossingportal.com
 | Pokemon Tier Lists | A Pokemon Fansite | https://www.pokemontierlists.com
 
 ## Deprecated Projects
 | Project Name | Description
 |---|---
+| cmpct  | Link shortener with a difference
 | PortalCMS | A page builder and CMS built with .NET
 | ShineProject  | A beautiful todo list application
 | EyeDentity  | A website to build your own directories or online profiles
