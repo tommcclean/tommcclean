@@ -1,8 +1,8 @@
 ### Thomas William McClean 👋
-> I am a Senior Full-Stack Software Engineer working for `Just Eat Takeaway` in the United Kingdom, learn more about me at https://www.tommcclean.me
+> I am a Technology Manager, Team Lead and Senior Full-Stack Software Engineer working for `Just Eat Takeaway` in the United Kingdom.
 
 - 😄 **Pronouns**: He / Him
-- 💻 **Preferred Tech**: NuxtJS, VueJS, NodeJS, C# .NETCore, Azure, AWS
+- 💻 **Preferred Tech**: Web Platforms such as NuxtJS, NextJS, VueJS, NodeJS, C# .NETCore, Azure, AWS
 
 <hr>
 
@@ -10,7 +10,7 @@
 | Project Name | Description | Link
 |---|---|---
 | micro stat  | Realtime operations platform | https://www.micro-stat.com
-| BattleBlox | Challenging turn based strategy game | http://www.battleblox.gg   
+| BattleBlox | Challenging turn based strategy game | http://www.battleblox.tommcclean.me   
 | web launcher  | Build your own custom browser start page | https://www.weblauncher.online
 | Animal Crossing Portal | The authority on villager popularity | https://www.animalcrossingportal.com
 | Pokemon Tier Lists | A Pokemon Fansite | https://www.pokemontierlists.com
