@@ -9,7 +9,7 @@
 ## Recent Personal Projects
 | Project Name | Description | Link
 |---|---|---
-| micro stat  | Realtime operations platform | https://www.micro-stat.com
+| Manager Toolkit  | Everything you need to manage your team better in one place | https://www.manager-toolkit.com
 | BattleBlox | Challenging turn based strategy game | http://www.battleblox.tommcclean.me   
 | web launcher  | Build your own custom browser start page | https://www.weblauncher.online
 | Animal Crossing Portal | The authority on villager popularity | https://www.animalcrossingportal.com
@@ -18,6 +18,7 @@
 ## Deprecated Personal Projects
 | Project Name | Description
 |---|---
+| micro stat  | Realtime operations platform
 | [cmpct](https://github.com/cmpct-io)  | Link shortener with a difference
 | [PortalCMS](https://github.com/tommcclean/PortalCMS) | A page builder and CMS built with .NET
 | [ShineProject](https://github.com/shineproject-io)  | A beautiful todo list application
